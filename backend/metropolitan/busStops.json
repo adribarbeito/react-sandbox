@@ -1,0 +1,36 @@
+{
+    "placemarks": [
+        {
+            "code": "X0001",
+            "name": "Estación de autobuses",
+            "coordinates": [
+                43.353556,
+                -8.404491
+            ]
+        },
+        {
+            "code": "X0002",
+            "name": "Costa Palloza 5",
+            "coordinates": [
+                43.358662,
+                -8.403509
+            ]
+        },
+        {
+            "code": "X0003",
+            "name": "Entrejardines",
+            "coordinates": [
+                43.367348,
+                -8.402764
+            ]
+        },
+        {
+            "code": "X0004",
+            "name": "Polígono A Grela",
+            "coordinates": [
+                43.347249,
+                -8.425807
+            ]
+        }
+    ]
+}

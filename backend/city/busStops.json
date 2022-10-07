@@ -1,0 +1,3788 @@
+{
+  "busStops": [
+    {
+      "code": "001",
+      "name": "Puerta Real",
+      "latitude": 43.370115,
+      "longitude": -8.395856447,
+      "smart": true,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "002",
+      "name": "Av. Marina, Callejón de la Estacada",
+      "latitude": 43.3697686648,
+      "longitude": -8.399365,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "003",
+      "name": "Av. de la Marina, Obelisco",
+      "latitude": 43.368363,
+      "longitude": -8.4025337866,
+      "smart": true,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "004",
+      "name": "Cantón Pequeño 25, Pza. Mina (Arenas)",
+      "latitude": 43.366843,
+      "longitude": -8.404393,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "005",
+      "name": "Plaza de Ourense",
+      "latitude": 43.364718,
+      "longitude": -8.405232,
+      "smart": true,
+      "state": "INACTIVE"
+    },
+    {
+      "code": "006",
+      "name": "Linares Rivas 27, Menéndez y Pelayo",
+      "latitude": 43.362822,
+      "longitude": -8.405483,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "007",
+      "name": "Primo de Rivera 1, bajo viaducto",
+      "latitude": 43.360672,
+      "longitude": -8.404575,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "008",
+      "name": "Cuatro Caminos, jardín",
+      "latitude": 43.357153,
+      "longitude": -8.404442,
+      "smart": true,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "009",
+      "name": "Caballeros (Estación de Autobuses)",
+      "latitude": 43.353303,
+      "longitude": -8.406075,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "010",
+      "name": "Caballeros (Ministerios)",
+      "latitude": 43.351197,
+      "longitude": -8.405128,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "011",
+      "name": "Av. de Monelos, Torre 8",
+      "latitude": 43.348812,
+      "longitude": -8.403268,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "012",
+      "name": "Av. de Monelos, Bloque 2",
+      "latitude": 43.34707,
+      "longitude": -8.4016,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "015",
+      "name": "Pza. de Pablo Iglesias, 8",
+      "latitude": 43.347367,
+      "longitude": -8.397603,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "018",
+      "name": "Pza. de la Concordia 27",
+      "latitude": 43.351477,
+      "longitude": -8.394442,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "019",
+      "name": "Av. de la Concordia 9",
+      "latitude": 43.351933,
+      "longitude": -8.391928,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "020",
+      "name": "Os Castros, Av. del Pasaje 15 (Iglesia)",
+      "latitude": 43.351963,
+      "longitude": -8.390232,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "021",
+      "name": "Av. del Ejército, glorieta Rda. Outeiro",
+      "latitude": 43.355293,
+      "longitude": -8.395613,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "022",
+      "name": "Av. del Ejército (frente a Casa del Mar)",
+      "latitude": 43.358152,
+      "longitude": -8.400273,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "023",
+      "name": "Av. Primo de Rivera, Palloza",
+      "latitude": 43.359642,
+      "longitude": -8.403302,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "024",
+      "name": "Av. Primo de Rivera (bajo viaducto)",
+      "latitude": 43.362,
+      "longitude": -8.405097,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "025",
+      "name": "Plaza de Ourense, Puerto",
+      "latitude": 43.364415,
+      "longitude": -8.404943,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "026",
+      "name": "Plaza de Mina, Cantón Pequeño",
+      "latitude": 43.366512,
+      "longitude": -8.404457,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "027",
+      "name": "Obelisco, jardines Méndez Núñez",
+      "latitude": 43.368712,
+      "longitude": -8.40146,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "028",
+      "name": "Av. de la Marina (Autoridad Portuaria)",
+      "latitude": 43.369723,
+      "longitude": -8.39921,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "029",
+      "name": "Av. Oza 44 (sobre río Monelos)",
+      "latitude": 43.355542,
+      "longitude": -8.400855,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "030",
+      "name": "Av. Oza 88 (Gaiteira)",
+      "latitude": 43.354448,
+      "longitude": -8.39775,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "031",
+      "name": "Av. Oza 124, Juan Montes",
+      "latitude": 43.353722,
+      "longitude": -8.39427,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "032",
+      "name": "Av. Oza 166 (Os Peores Viños)",
+      "latitude": 43.353085,
+      "longitude": -8.391733,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "033",
+      "name": "Av. Oza 186",
+      "latitude": 43.35266,
+      "longitude": -8.389982,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "034",
+      "name": "Av. Oza 218, Vales Villamarín",
+      "latitude": 43.352055,
+      "longitude": -8.388253,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "035",
+      "name": "Av. Oza 240, Urb. Casablanca",
+      "latitude": 43.350468,
+      "longitude": -8.388752,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "036",
+      "name": "Av. del Pasaje 47",
+      "latitude": 43.350087,
+      "longitude": -8.390707,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "037",
+      "name": "Av. Oza 127 (Past. Suevia)",
+      "latitude": 43.353238,
+      "longitude": -8.39215,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "038",
+      "name": "Av. Oza 75 (ABANCA)",
+      "latitude": 43.353878,
+      "longitude": -8.394788,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "039",
+      "name": "Av. Oza 27, Gaiteira (Farmacia)",
+      "latitude": 43.354593,
+      "longitude": -8.397947,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "040",
+      "name": "Av. Oza 9, Primavera",
+      "latitude": 43.356505,
+      "longitude": -8.403273,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "041",
+      "name": "Cuesta de la Palloza 5 (Bingo)",
+      "latitude": 43.357885,
+      "longitude": -8.404055,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "042",
+      "name": "Emilio González López, Manuel Azaña",
+      "latitude": 43.374357,
+      "longitude": -8.431632,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "043",
+      "name": "Manuel Azaña 27, Castelao",
+      "latitude": 43.374988,
+      "longitude": -8.429193,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "044",
+      "name": "Castelao (Centro de Salud)",
+      "latitude": 43.372877,
+      "longitude": -8.428102,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "045",
+      "name": "Av. Gran Canaria, Colombia",
+      "latitude": 43.372443,
+      "longitude": -8.423937,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "046",
+      "name": "Plaza del Conservatorio",
+      "latitude": 43.371045,
+      "longitude": -8.421908,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "047",
+      "name": "Paseo de Ronda, IES Salvador de Madariaga",
+      "latitude": 43.369748,
+      "longitude": -8.420723,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "048",
+      "name": "Gregorio Hernández 2 (Edif. Sanidad)",
+      "latitude": 43.36704,
+      "longitude": -8.420457,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "049",
+      "name": "Rda. de Nelle 145, Villa de Negreira",
+      "latitude": 43.364758,
+      "longitude": -8.418622,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "050",
+      "name": "Rda. de Nelle 109 (Aaiún)",
+      "latitude": 43.362445,
+      "longitude": -8.416768,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "051",
+      "name": "Rda. de Nelle 71 (Nª Sra. de Fátima)",
+      "latitude": 43.359943,
+      "longitude": -8.414462,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "052",
+      "name": "Rda. de Nelle, Av. de Arteixo (CPR Afundación)",
+      "latitude": 43.359057,
+      "longitude": -8.411465,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "053",
+      "name": "Rda. de Nelle 9, Víctor López Seoane",
+      "latitude": 43.358087,
+      "longitude": -8.407903,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "055",
+      "name": "Av. del Pasaje (frente Iglesia)",
+      "latitude": 43.351802,
+      "longitude": -8.39042,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "056",
+      "name": "Av. del Pasaje, Casablanca (Renault)",
+      "latitude": 43.348682,
+      "longitude": -8.391132,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "057",
+      "name": "Av. del Pasaje (Hospital San Rafael)",
+      "latitude": 43.345157,
+      "longitude": -8.38718,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "059",
+      "name": "CHUAC, glorieta",
+      "latitude": 43.34377,
+      "longitude": -8.387935,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "060",
+      "name": "Av. del Pasaje (Tanatorio Servisa)",
+      "latitude": 43.34523,
+      "longitude": -8.386857,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "061",
+      "name": "Av. del Pasaje, viaducto (Las Jubias)",
+      "latitude": 43.348515,
+      "longitude": -8.389308,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "064",
+      "name": "Av. de la Concordia 14",
+      "latitude": 43.351998,
+      "longitude": -8.391897,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "065",
+      "name": "Av. de la Concordia 50",
+      "latitude": 43.35153,
+      "longitude": -8.395438,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "066",
+      "name": "Av. de la Concordia 72",
+      "latitude": 43.351048,
+      "longitude": -8.39716,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "067",
+      "name": "Abegondo 3",
+      "latitude": 43.348863,
+      "longitude": -8.396892,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "068",
+      "name": "Pza. de Pablo Iglesias (Taxis)",
+      "latitude": 43.347475,
+      "longitude": -8.397493,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "069",
+      "name": "Av. de la Concordia 188",
+      "latitude": 43.347397,
+      "longitude": -8.399588,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "070",
+      "name": "Av. de Monelos 141",
+      "latitude": 43.34622,
+      "longitude": -8.40052,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "071",
+      "name": "Av. de Monelos 103",
+      "latitude": 43.347405,
+      "longitude": -8.40184,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "072",
+      "name": "Av. de Monelos 45 (Estanco)",
+      "latitude": 43.349278,
+      "longitude": -8.403465,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "073",
+      "name": "Caballeros 33",
+      "latitude": 43.351185,
+      "longitude": -8.405035,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "074",
+      "name": "Caballeros (Estación Autobuses)",
+      "latitude": 43.353408,
+      "longitude": -8.405975,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "075",
+      "name": "Concepción Arenal 21, fuente de Cuatro Caminos (Lot. La Favorita)",
+      "latitude": 43.356783,
+      "longitude": -8.4041,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "076",
+      "name": "Enrique Hervada 4, jardín Cuatro Caminos",
+      "latitude": 43.357595,
+      "longitude": -8.404855,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "077",
+      "name": "Rda. de Nelle 28",
+      "latitude": 43.358352,
+      "longitude": -8.408517,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "078",
+      "name": "Rda. de Nelle 68 (Parque Sta. Margarita)",
+      "latitude": 43.359415,
+      "longitude": -8.41239,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "079",
+      "name": "Rda. de Nelle 92 (Muebles Lois)",
+      "latitude": 43.36016,
+      "longitude": -8.414522,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "080",
+      "name": "Rda. de Nelle 130",
+      "latitude": 43.362928,
+      "longitude": -8.416995,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "081",
+      "name": "Rda. de Nelle, Paseo de los Puentes",
+      "latitude": 43.364495,
+      "longitude": -8.41826,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "082",
+      "name": "Paseo de Ronda 26 (Caf. Cervantes)",
+      "latitude": 43.367653,
+      "longitude": -8.420638,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "083",
+      "name": "Paseo de Ronda, Almte. Lángara",
+      "latitude": 43.369788,
+      "longitude": -8.420508,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "084",
+      "name": "Av. Gran Canaria, Pza. de Náutica",
+      "latitude": 43.370773,
+      "longitude": -8.421288,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "085",
+      "name": "Honduras, Av. Gran Canaria",
+      "latitude": 43.372853,
+      "longitude": -8.423798,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "086",
+      "name": "Labañou 5 (Farmacia)",
+      "latitude": 43.3743,
+      "longitude": -8.423857,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "087",
+      "name": "Manuel Azaña 26",
+      "latitude": 43.375162,
+      "longitude": -8.427893,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "088",
+      "name": "Manuel Azaña 64",
+      "latitude": 43.374795,
+      "longitude": -8.431525,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "089",
+      "name": "Emilio González López 32",
+      "latitude": 43.375455,
+      "longitude": -8.434958,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "090",
+      "name": "Emilio González López 54",
+      "latitude": 43.37297,
+      "longitude": -8.436083,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "091",
+      "name": "Rda. de Outeiro, Manuel Murguía (glorieta Pavo Real)",
+      "latitude": 43.367717,
+      "longitude": -8.424708,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "092",
+      "name": "Rda. de Outeiro 293 (frente a Raxaría As Neves)",
+      "latitude": 43.364997,
+      "longitude": -8.4244,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "093",
+      "name": "Rda. de Outeiro 269",
+      "latitude": 43.36333,
+      "longitude": -8.423267,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "094",
+      "name": "Rda. de Outeiro 249",
+      "latitude": 43.361055,
+      "longitude": -8.421567,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "095",
+      "name": "Rda. de Outeiro 219 (Mercadona)",
+      "latitude": 43.3584,
+      "longitude": -8.419653,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "096",
+      "name": "Rda. de Outeiro, Col. Sagrada Familia",
+      "latitude": 43.357283,
+      "longitude": -8.418158,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "097",
+      "name": "Rda. de Outeiro, Igualdade (Parque Vioño)",
+      "latitude": 43.356,
+      "longitude": -8.414682,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "098",
+      "name": "Rda. de Outeiro 147, Av. Os Mallos",
+      "latitude": 43.355452,
+      "longitude": -8.412712,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "099",
+      "name": "Rda. de Outeiro 109, Av. Sardiñeira",
+      "latitude": 43.353977,
+      "longitude": -8.409787,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "100",
+      "name": "Av. Ferrocarril, Estación de Tren",
+      "latitude": 43.352112,
+      "longitude": -8.409475,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "101",
+      "name": "General Rubín (ida)",
+      "latitude": 43.350508,
+      "longitude": -8.410367,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "105",
+      "name": "Av. San Cristóbal (campo de fútbol)",
+      "latitude": 43.342782,
+      "longitude": -8.411775,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "106",
+      "name": "Camilo José Cela, Matogrande",
+      "latitude": 43.34272,
+      "longitude": -8.403808,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "107",
+      "name": "Camilo José Cela (Liceo La Paz)",
+      "latitude": 43.342812,
+      "longitude": -8.40122,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "108",
+      "name": "Grorieta cruce Eirís",
+      "latitude": 43.34437,
+      "longitude": -8.398825,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "109",
+      "name": "Av. Monelos, Javier López (Oleoducto)",
+      "latitude": 43.345392,
+      "longitude": -8.399772,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "111",
+      "name": "Camilo José Cela, Bloque 20 (Taxis)",
+      "latitude": 43.344172,
+      "longitude": -8.399395,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "112",
+      "name": "Camilo José Cela, Bloque 29 (Liceo La Paz)",
+      "latitude": 43.342977,
+      "longitude": -8.400865,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "113",
+      "name": "Camilo José Cela, Bloque 30 (Matogrande)",
+      "latitude": 43.342865,
+      "longitude": -8.40331,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "114",
+      "name": "San Cristóbal 2",
+      "latitude": 43.342982,
+      "longitude": -8.411947,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "115",
+      "name": "Pablo Picasso 11",
+      "latitude": 43.344648,
+      "longitude": -8.413397,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "116",
+      "name": "Pablo Picasso Edif. San Cristóbal (GADIS)",
+      "latitude": 43.346477,
+      "longitude": -8.410738,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "117",
+      "name": "Pablo Picasso, Pza. Casares Quiroga",
+      "latitude": 43.348855,
+      "longitude": -8.409535,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "118",
+      "name": "General Rubín (vuelta)",
+      "latitude": 43.350608,
+      "longitude": -8.41024,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "119",
+      "name": "Estación de Tren, glorieta Rda. de Outeiro",
+      "latitude": 43.353037,
+      "longitude": -8.408232,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "120",
+      "name": "Rda. de Outeiro 126",
+      "latitude": 43.354375,
+      "longitude": -8.410077,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "121",
+      "name": "Rda. de Outeiro 148, Av. Os Mallos",
+      "latitude": 43.355353,
+      "longitude": -8.41212,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "122",
+      "name": "Rda. de Outeiro 174",
+      "latitude": 43.356235,
+      "longitude": -8.415128,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "123",
+      "name": "Rda. de Outeiro 212",
+      "latitude": 43.357542,
+      "longitude": -8.418272,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "124",
+      "name": "Rda. de Outeiro 232",
+      "latitude": 43.359588,
+      "longitude": -8.420273,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "125",
+      "name": "Rda. de Outeiro 252",
+      "latitude": 43.361227,
+      "longitude": -8.421457,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "126",
+      "name": "Rda. de Outeiro 272",
+      "latitude": 43.362562,
+      "longitude": -8.422417,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "127",
+      "name": "Rda. de Outeiro 308",
+      "latitude": 43.365988,
+      "longitude": -8.424555,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "129",
+      "name": "San Pedro de Mezonzo (Iglesia)",
+      "latitude": 43.357468,
+      "longitude": -8.40591,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "130",
+      "name": "San Pedro de Visma (Iglesia)",
+      "latitude": 43.367958,
+      "longitude": -8.429557,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "131",
+      "name": "San Pedro de Visma 1",
+      "latitude": 43.368707,
+      "longitude": -8.431438,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "132",
+      "name": "San Pedro de Visma, cruce Portiño",
+      "latitude": 43.369707,
+      "longitude": -8.434362,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "134",
+      "name": "Av. Habana 25",
+      "latitude": 43.367483,
+      "longitude": -8.41973,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "137",
+      "name": "Pza. de Pontevedra 8",
+      "latitude": 43.367488,
+      "longitude": -8.407665,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "139",
+      "name": "Puerta Real, Dársena",
+      "latitude": 43.370053,
+      "longitude": -8.395852,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "140",
+      "name": "O Parrote (Hotel Finisterre)",
+      "latitude": 43.368748,
+      "longitude": -8.393733,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "141",
+      "name": "Museo Militar, Hospital Abente y Lago",
+      "latitude": 43.368828,
+      "longitude": -8.390217,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "145",
+      "name": "Orillamar 26",
+      "latitude": 43.373817,
+      "longitude": -8.394415,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "146",
+      "name": "Orillamar 42 (Pub Inox)",
+      "latitude": 43.37508,
+      "longitude": -8.395008,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "147",
+      "name": "Cementerio de San Amaro",
+      "latitude": 43.378098,
+      "longitude": -8.397478,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "148",
+      "name": "Orillamar 100, Bar O Trolebús",
+      "latitude": 43.379172,
+      "longitude": -8.398243,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "149",
+      "name": "Residencia Torrente Ballester",
+      "latitude": 43.380927,
+      "longitude": -8.399127,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "150",
+      "name": "Adormideras, playa de San Amaro",
+      "latitude": 43.38219,
+      "longitude": -8.396077,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "151",
+      "name": "Adormideras (Mercado)",
+      "latitude": 43.38352,
+      "longitude": -8.395543,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "152",
+      "name": "Av. de Navarra, glorieta",
+      "latitude": 43.382137,
+      "longitude": -8.400387,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "153",
+      "name": "Ciudad Deportiva de la Torre",
+      "latitude": 43.383243,
+      "longitude": -8.402082,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "154",
+      "name": "Paseo Marítimo (Acuario)",
+      "latitude": 43.383063,
+      "longitude": -8.409607,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "155",
+      "name": "Paseo Marítimo (As Lagoas)",
+      "latitude": 43.380988,
+      "longitude": -8.409917,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "156",
+      "name": "Paseo Marítimo (Domus)",
+      "latitude": 43.376952,
+      "longitude": -8.406822,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "157",
+      "name": "Paseo Marítimo, fuente surfistas",
+      "latitude": 43.374797,
+      "longitude": -8.403155,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "159",
+      "name": "Paseo Marítimo, frente C. Salud",
+      "latitude": 43.369752,
+      "longitude": -8.405942,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "160",
+      "name": "Juan Flórez 10, Pza. Pontevedra",
+      "latitude": 43.366613,
+      "longitude": -8.408667,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "161",
+      "name": "Plaza del Maestro Mateo",
+      "latitude": 43.366208,
+      "longitude": -8.411735,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "162",
+      "name": "Av. Habana (Estadio de Riazor)",
+      "latitude": 43.368058,
+      "longitude": -8.416808,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "163",
+      "name": "Av. Habana (Casa del Agua)",
+      "latitude": 43.367615,
+      "longitude": -8.419497,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "164",
+      "name": "O Portiño",
+      "latitude": 43.371087,
+      "longitude": -8.439437,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "165",
+      "name": "San Pedro de Visma, ctra. Fuertes",
+      "latitude": 43.369808,
+      "longitude": -8.434655,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "166",
+      "name": "San Pedro de Visma, Bens",
+      "latitude": 43.368795,
+      "longitude": -8.431882,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "167",
+      "name": "San Andrés 121, Santa Catalina",
+      "latitude": 43.368708,
+      "longitude": -8.404675,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "168",
+      "name": "San Andrés, 33",
+      "latitude": 43.370843,
+      "longitude": -8.401368,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "169",
+      "name": "Paseo Marítimo (Colegio Salesianos)",
+      "latitude": 43.373363,
+      "longitude": -8.402708,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "170",
+      "name": "Av. Navarra 57",
+      "latitude": 43.382097,
+      "longitude": -8.400608,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "173",
+      "name": "Av. Navarra 27",
+      "latitude": 43.380498,
+      "longitude": -8.399312,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "174",
+      "name": "A Torre 91",
+      "latitude": 43.37873,
+      "longitude": -8.398363,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "175",
+      "name": "A Torre 63",
+      "latitude": 43.375628,
+      "longitude": -8.398238,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "176",
+      "name": "Baltasar Pardal, Pza. de España (Grande Obra)",
+      "latitude": 43.373333,
+      "longitude": -8.396467,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "177",
+      "name": "Hípica",
+      "latitude": 43.37205,
+      "longitude": -8.390768,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "178",
+      "name": "Maestranza, Veramar",
+      "latitude": 43.373348,
+      "longitude": -8.394283,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "180",
+      "name": "Parrote (Capitanía)",
+      "latitude": 43.368827,
+      "longitude": -8.39362,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "181",
+      "name": "Av. de Hércules (Mercado)",
+      "latitude": 43.378265,
+      "longitude": -8.403572,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "182",
+      "name": "Av. de Hércules 37",
+      "latitude": 43.377215,
+      "longitude": -8.401232,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "183",
+      "name": "Pza. de España 24 (Farmacia)",
+      "latitude": 43.373213,
+      "longitude": -8.39739,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "184",
+      "name": "Panaderas, Museo",
+      "latitude": 43.37247,
+      "longitude": -8.399365,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "185",
+      "name": "San Andrés 56, Africano",
+      "latitude": 43.370105,
+      "longitude": -8.402868,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "186",
+      "name": "Pza. de Pontevedra (IES Eusebio da Guarda)",
+      "latitude": 43.367792,
+      "longitude": -8.407103,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "187",
+      "name": "Juan Flórez 56",
+      "latitude": 43.363957,
+      "longitude": -8.408128,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "188",
+      "name": "Juan Flórez 82, Nicaragua",
+      "latitude": 43.362465,
+      "longitude": -8.408073,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "189",
+      "name": "Juan Flórez 116 (Colegio Labaca)",
+      "latitude": 43.360398,
+      "longitude": -8.406503,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "191",
+      "name": "Camilo José Cela, Bloque 44 (Hogar del pensionista)",
+      "latitude": 43.344497,
+      "longitude": -8.405032,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "192",
+      "name": "Camilo José Cela, Bloque 56 (Monelos)",
+      "latitude": 43.34588,
+      "longitude": -8.404053,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "193",
+      "name": "Camilo José Cela, Bloque 2",
+      "latitude": 43.347043,
+      "longitude": -8.40254,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "194",
+      "name": "Juan Flórez 119",
+      "latitude": 43.35979,
+      "longitude": -8.405778,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "195",
+      "name": "Plaza de Vigo",
+      "latitude": 43.362503,
+      "longitude": -8.406348,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "196",
+      "name": "Plaza de Galicia",
+      "latitude": 43.365112,
+      "longitude": -8.406893,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "197",
+      "name": "Plaza de Pontevedra 10 (Loterías)",
+      "latitude": 43.36735,
+      "longitude": -8.408163,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "199",
+      "name": "Pza. de España, San Roque 1",
+      "latitude": 43.373442,
+      "longitude": -8.397375,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "200",
+      "name": "Santo Tomás 2",
+      "latitude": 43.379413,
+      "longitude": -8.398738,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "201",
+      "name": "Santo Tomás 72",
+      "latitude": 43.379243,
+      "longitude": -8.401917,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "202",
+      "name": "Alcalde Sanjurjo 9, glorieta Rda. Monte Alto",
+      "latitude": 43.380038,
+      "longitude": -8.406488,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "203",
+      "name": "Marqués de Figueroa",
+      "latitude": 43.353763,
+      "longitude": -8.407712,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "204",
+      "name": "Birloque (frente peña da Chave San Cristobal)",
+      "latitude": 43.342703,
+      "longitude": -8.414507,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "205",
+      "name": "A Cabana",
+      "latitude": 43.34045,
+      "longitude": -8.41335,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "206",
+      "name": "Capitán Juan Varela",
+      "latitude": 43.354548,
+      "longitude": -8.408657,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "207",
+      "name": "Plaza de Monforte",
+      "latitude": 43.356387,
+      "longitude": -8.407435,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "212",
+      "name": "Estrada de Carballo (Iveco, frente Mercado Frutas)",
+      "latitude": 43.347163,
+      "longitude": -8.425487,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "215",
+      "name": "Av. Finisterre 44, Manuel Artime",
+      "latitude": 43.365695,
+      "longitude": -8.41097,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "216",
+      "name": "Av. Finisterre 84, F.S. Iglesia",
+      "latitude": 43.36444,
+      "longitude": -8.412305,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "217",
+      "name": "Av. Finisterre 192, Rda. de Nelle",
+      "latitude": 43.361065,
+      "longitude": -8.416072,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "218",
+      "name": "Av. Finisterre 256, San Antonio",
+      "latitude": 43.359738,
+      "longitude": -8.418432,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "219",
+      "name": "Av. Finisterre 288, Agra de Bragua",
+      "latitude": 43.358745,
+      "longitude": -8.420758,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "220",
+      "name": "Av. Finisterre (Amb. Ventorrillo)",
+      "latitude": 43.357762,
+      "longitude": -8.423052,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "221",
+      "name": "A Silva, Benela",
+      "latitude": 43.356132,
+      "longitude": -8.426788,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "222",
+      "name": "A Fontenova, Cances",
+      "latitude": 43.354708,
+      "longitude": -8.429918,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "223",
+      "name": "A Moura, Bens",
+      "latitude": 43.352872,
+      "longitude": -8.433838,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "224",
+      "name": "Refinería (ida)",
+      "latitude": 43.350905,
+      "longitude": -8.438775,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "225",
+      "name": "San José",
+      "latitude": 43.348593,
+      "longitude": -8.443195,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "226",
+      "name": "Refinería (vuelta)",
+      "latitude": 43.350313,
+      "longitude": -8.439577,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "228",
+      "name": "A Moura (autocares)",
+      "latitude": 43.352955,
+      "longitude": -8.433297,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "229",
+      "name": "A Fontenova, Gambrinus",
+      "latitude": 43.354792,
+      "longitude": -8.42935,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "230",
+      "name": "A Silva (frente Benela)",
+      "latitude": 43.356208,
+      "longitude": -8.426227,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "231",
+      "name": "Ventorrillo (Café Millenium)",
+      "latitude": 43.357995,
+      "longitude": -8.422083,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "232",
+      "name": "Av. Finisterre, Rda. de Outeiro",
+      "latitude": 43.35875,
+      "longitude": -8.420472,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "233",
+      "name": "Av. de Finisterre 215 (BBVA)",
+      "latitude": 43.360152,
+      "longitude": -8.417335,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "234",
+      "name": "Av. de Finisterre 147 (Óptica)",
+      "latitude": 43.361842,
+      "longitude": -8.415028,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "235",
+      "name": "Av. de Finisterre 69 (ABANCA)",
+      "latitude": 43.363963,
+      "longitude": -8.41268,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "236",
+      "name": "Av. de Finisterre 31, Manuel Artime",
+      "latitude": 43.365492,
+      "longitude": -8.411165,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "237",
+      "name": "Riazor, Pza. Portugal (Playa Club)",
+      "latitude": 43.368537,
+      "longitude": -8.413992,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "238",
+      "name": "Manuel Murguía, Esclavas",
+      "latitude": 43.369668,
+      "longitude": -8.41619,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "240",
+      "name": "Av. de Peruleiro 20",
+      "latitude": 43.367098,
+      "longitude": -8.422237,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "241",
+      "name": "Monasterio de Bergondo 12",
+      "latitude": 43.362235,
+      "longitude": -8.423632,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "242",
+      "name": "Alcalde Peñamaría de Llano 6-8",
+      "latitude": 43.36119,
+      "longitude": -8.42526,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "243",
+      "name": "Alcalde Jaime Hervada",
+      "latitude": 43.358973,
+      "longitude": -8.426097,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "244",
+      "name": "Ambulatorio del Ventorrillo",
+      "latitude": 43.358353,
+      "longitude": -8.422825,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "245",
+      "name": "Rodrigo A. de Santiago (Correos)",
+      "latitude": 43.360108,
+      "longitude": -8.422573,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "246",
+      "name": "Villa de Negreira 43, Pascual Veiga",
+      "latitude": 43.363867,
+      "longitude": -8.421202,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "247",
+      "name": "Villa Negreira 9, José Baldomir",
+      "latitude": 43.364613,
+      "longitude": -8.41941,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "248",
+      "name": "Manuel Murguía (Casa del Agua)",
+      "latitude": 43.368905,
+      "longitude": -8.420163,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "249",
+      "name": "Manuel Murguía (Pabellón, Deportienda)",
+      "latitude": 43.369578,
+      "longitude": -8.41617,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "250",
+      "name": "Costa da Unión",
+      "latitude": 43.361823,
+      "longitude": -8.409607,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "251",
+      "name": "Pla y Cancela 38",
+      "latitude": 43.359848,
+      "longitude": -8.410318,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "252",
+      "name": "Os Mallos, Biscaia",
+      "latitude": 43.357698,
+      "longitude": -8.410402,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "253",
+      "name": "Os Mallos, Rda. Outeiro",
+      "latitude": 43.356132,
+      "longitude": -8.411758,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "255",
+      "name": "Av. Sardiñeira, Europa",
+      "latitude": 43.351467,
+      "longitude": -8.412717,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "256",
+      "name": "Av. Sardiñeira 1 (Correos, Estación de Tren)",
+      "latitude": 43.353268,
+      "longitude": -8.410208,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "257",
+      "name": "Av. de Arteixo 81 (Farmacia, ascensor Ramón Cabanillas)",
+      "latitude": 43.357075,
+      "longitude": -8.41292,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "258",
+      "name": "Pla y Cancela 41",
+      "latitude": 43.3597,
+      "longitude": -8.410242,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "259",
+      "name": "Enrique Dequidt",
+      "latitude": 43.361998,
+      "longitude": -8.409765,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "263",
+      "name": "Av. Hércules 115, glorieta Rda. de Monte Alto",
+      "latitude": 43.379905,
+      "longitude": -8.407015,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "264",
+      "name": "Rda. de Outeiro, frente Hotel Avenida (Estación de Tren)",
+      "latitude": 43.35212,
+      "longitude": -8.407945,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "265",
+      "name": "Rda. de Outeiro, sobre viaducto Caballeros",
+      "latitude": 43.35162,
+      "longitude": -8.40541,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "268",
+      "name": "Ramón y Cajal, Casa del Mar",
+      "latitude": 43.357442,
+      "longitude": -8.400348,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "269",
+      "name": "Rda. de Outeiro, Pérez Ardá",
+      "latitude": 43.35168,
+      "longitude": -8.404437,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "270",
+      "name": "Plaza de la Palloza",
+      "latitude": 43.3588,
+      "longitude": -8.402245,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "271",
+      "name": "Av. Ejército (Casa del Mar)",
+      "latitude": 43.357963,
+      "longitude": -8.400362,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "272",
+      "name": "Av. del Ejército 16, Río Monelos",
+      "latitude": 43.356482,
+      "longitude": -8.398137,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "275",
+      "name": "Av. del Pasaje (gasolinera frente a Materno)",
+      "latitude": 43.338657,
+      "longitude": -8.389027,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "276",
+      "name": "Av. del Pasaje, Oncológico",
+      "latitude": 43.3349,
+      "longitude": -8.38961,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "277",
+      "name": "Av. de Alfonso Molina, Pedralonga",
+      "latitude": 43.330732,
+      "longitude": -8.390993,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "278",
+      "name": "Av. de Alfonso Molina, Palavea",
+      "latitude": 43.329977,
+      "longitude": -8.394712,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "279",
+      "name": "Av. de Alfonso Molina, Ofimático",
+      "latitude": 43.336018,
+      "longitude": -8.403482,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "281",
+      "name": "Av. de Alfonso Molina, Matogrande",
+      "latitude": 43.340885,
+      "longitude": -8.40699,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "282",
+      "name": "Pajaritas, Antonio Machado",
+      "latitude": 43.348645,
+      "longitude": -8.407373,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "283",
+      "name": "Álvaro Cunqueiro, Pajaritas",
+      "latitude": 43.348673,
+      "longitude": -8.408275,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "284",
+      "name": "Pablo Picasso, Isaac Díaz Pardo",
+      "latitude": 43.346522,
+      "longitude": -8.410812,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "285",
+      "name": "Pablo Picasso 4, Pz. Esteban Lareo",
+      "latitude": 43.344572,
+      "longitude": -8.413493,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "286",
+      "name": "Av. de Alfonso Molina, Coliséum",
+      "latitude": 43.340688,
+      "longitude": -8.407233,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "287",
+      "name": "Av. de Alfonso Molina (SEAT)",
+      "latitude": 43.337227,
+      "longitude": -8.404732,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "288",
+      "name": "Av. de Alfonso Molina, cruce Ctra. Zapateira",
+      "latitude": 43.332508,
+      "longitude": -8.401418,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "289",
+      "name": "Av. de Alfonso Molina, bajo autopista",
+      "latitude": 43.330243,
+      "longitude": -8.397665,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "290",
+      "name": "Av. de Alfonso Molina, Palavea (Taxis)",
+      "latitude": 43.329672,
+      "longitude": -8.3946,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "291",
+      "name": "Av. del Pasaje, Puente del Pasaje",
+      "latitude": 43.332618,
+      "longitude": -8.38682,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "292",
+      "name": "Av. del Pasaje (Col. Sta. Mª del Mar)",
+      "latitude": 43.335613,
+      "longitude": -8.389255,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "293",
+      "name": "Av. del Pasaje (Materno Infantil)",
+      "latitude": 43.33929,
+      "longitude": -8.388817,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "294",
+      "name": "FP Someso (ida)",
+      "latitude": 43.338047,
+      "longitude": -8.414605,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "295",
+      "name": "O Martinete (ida)",
+      "latitude": 43.33783,
+      "longitude": -8.418542,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "296",
+      "name": "Ctra. Someso, Martinete (ida)",
+      "latitude": 43.338815,
+      "longitude": -8.420655,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "297",
+      "name": "Ctra. Mesoiro (antes de Repsol Butano)",
+      "latitude": 43.335873,
+      "longitude": -8.422058,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "298",
+      "name": "Ctra. de Mesoiro 46 (Mamanoalla)",
+      "latitude": 43.333123,
+      "longitude": -8.424258,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "299",
+      "name": "Ctra. de Mesoiro 90",
+      "latitude": 43.330915,
+      "longitude": -8.426008,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "300",
+      "name": "Ctra. de Mesoiro, Illas Sisargas (CEPSA)",
+      "latitude": 43.32907,
+      "longitude": -8.427332,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "301",
+      "name": "Carretera de Feáns 32",
+      "latitude": 43.32428,
+      "longitude": -8.429943,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "302",
+      "name": "Carretera de Feáns 56",
+      "latitude": 43.323102,
+      "longitude": -8.430922,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "303",
+      "name": "Carretera de Feáns 76",
+      "latitude": 43.322035,
+      "longitude": -8.43348,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "304",
+      "name": "Ctra. Cementerio de Feáns, Uxes",
+      "latitude": 43.320545,
+      "longitude": -8.435662,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "305",
+      "name": "Cementerio de Feáns (entrada)",
+      "latitude": 43.316465,
+      "longitude": -8.442443,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "306",
+      "name": "Urbanización Breogán",
+      "latitude": 43.313428,
+      "longitude": -8.443995,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "307",
+      "name": "Cementerio de Feáns (frente a entrada)",
+      "latitude": 43.315875,
+      "longitude": -8.443133,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "308",
+      "name": "Ctra. Cementerio de Feáns, Ctra. de Uxes",
+      "latitude": 43.320537,
+      "longitude": -8.435572,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "309",
+      "name": "Carretera de Feáns 109",
+      "latitude": 43.322025,
+      "longitude": -8.433363,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "310",
+      "name": "Carretera de Feáns 55",
+      "latitude": 43.323295,
+      "longitude": -8.430513,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "311",
+      "name": "Carretera de Mesoiro, Illas Sisargas (CEPSA)",
+      "latitude": 43.329033,
+      "longitude": -8.427295,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "312",
+      "name": "Pol. POCOMACO, Av. Sexta Ensanche (frente gasolinera)",
+      "latitude": 43.33079,
+      "longitude": -8.427335,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "313",
+      "name": "Pol. POCOMACO C15 (GADIS)",
+      "latitude": 43.33202,
+      "longitude": -8.4286,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "314",
+      "name": "Pol. POCOMACO C8 (Dieletro Galicia)",
+      "latitude": 43.333952,
+      "longitude": -8.42611,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "315",
+      "name": "Pol. POCOMACO, gasolinera REPSOL",
+      "latitude": 43.33634,
+      "longitude": -8.422395,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "316",
+      "name": "Ctra. Someso, Martinete (vuelta)",
+      "latitude": 43.338948,
+      "longitude": -8.420763,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "317",
+      "name": "Birloque (Residencial Birloque)",
+      "latitude": 43.340555,
+      "longitude": -8.41676,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "321",
+      "name": "Salgado Torres, túnel",
+      "latitude": 43.35057,
+      "longitude": -8.409288,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "322",
+      "name": "Ramón y Cajal (C.C. 4 Caminos)",
+      "latitude": 43.355172,
+      "longitude": -8.402847,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "323",
+      "name": "Birloque, peña A Chave",
+      "latitude": 43.342887,
+      "longitude": -8.414762,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "324",
+      "name": "Birloque, ctra. de Pocomaco (Autoavión)",
+      "latitude": 43.340955,
+      "longitude": -8.416192,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "325",
+      "name": "Martinete, cruce Ctra. Someso (vuelta)",
+      "latitude": 43.339027,
+      "longitude": -8.420515,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "326",
+      "name": "Pol. POCOMACO B15",
+      "latitude": 43.336312,
+      "longitude": -8.422973,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "327",
+      "name": "Pol. POCOMACO B4",
+      "latitude": 43.334167,
+      "longitude": -8.426048,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "328",
+      "name": "Pol. POCOMACO A5 (frente a GADIS)",
+      "latitude": 43.332135,
+      "longitude": -8.428613,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "329",
+      "name": "Pol. POCOMACO, Tercera Ronda (gasolinera)",
+      "latitude": 43.330538,
+      "longitude": -8.426933,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "334",
+      "name": "Obradoiro",
+      "latitude": 43.318707,
+      "longitude": -8.426708,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "335",
+      "name": "Carretera de Obradoiro",
+      "latitude": 43.31975,
+      "longitude": -8.429417,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "336",
+      "name": "Mesoiro 73",
+      "latitude": 43.331712,
+      "longitude": -8.425348,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "337",
+      "name": "Mesoiro 43",
+      "latitude": 43.33324,
+      "longitude": -8.424003,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "338",
+      "name": "Mesoiro 11",
+      "latitude": 43.335173,
+      "longitude": -8.422142,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "339",
+      "name": "Ctra. Someso, cruce Martinete (vuelta)",
+      "latitude": 43.338465,
+      "longitude": -8.420457,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "340",
+      "name": "O Martinete (vuelta)",
+      "latitude": 43.337822,
+      "longitude": -8.41858,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "341",
+      "name": "FP Someso (vuelta)",
+      "latitude": 43.338068,
+      "longitude": -8.414553,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "342",
+      "name": "A Cabana, glorieta Av. Glasgow",
+      "latitude": 43.34078,
+      "longitude": -8.413475,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "343",
+      "name": "O Birloque, polideportivo",
+      "latitude": 43.3423,
+      "longitude": -8.414278,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "344",
+      "name": "Av. de Alfonso Molina, Pza. de Madrid",
+      "latitude": 43.352992,
+      "longitude": -8.406935,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "345",
+      "name": "Pajaritas, Álvaro Cunqueiro",
+      "latitude": 43.347605,
+      "longitude": -8.40848,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "346",
+      "name": "Av. de Alfonso Molina, cruce Ctra. Campus Elviña",
+      "latitude": 43.334985,
+      "longitude": -8.403113,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "348",
+      "name": "Campus Elviña, Pistas",
+      "latitude": 43.333013,
+      "longitude": -8.412198,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "349",
+      "name": "Facultad de Informática",
+      "latitude": 43.33372,
+      "longitude": -8.410788,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "350",
+      "name": "Antonio Insua Rivas 2",
+      "latitude": 43.335617,
+      "longitude": -8.403758,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "351",
+      "name": "Antonio Insua Rivas 34",
+      "latitude": 43.33391,
+      "longitude": -8.404445,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "352",
+      "name": "Antonio Insua Rivas 54",
+      "latitude": 43.332525,
+      "longitude": -8.407432,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "353",
+      "name": "Antonio Insua Rivas 86",
+      "latitude": 43.330118,
+      "longitude": -8.408362,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "354",
+      "name": "Facultad de Ciencias",
+      "latitude": 43.32732,
+      "longitude": -8.408292,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "356",
+      "name": "Facultad de Filología, Cuac FM",
+      "latitude": 43.326023,
+      "longitude": -8.406657,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "357",
+      "name": "Av. Nueva York (Colegio Jesuitinas)",
+      "latitude": 43.330592,
+      "longitude": -8.40508,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "358",
+      "name": "Los Rosales, cruce San Pedro de Visma",
+      "latitude": 43.372718,
+      "longitude": -8.435767,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "359",
+      "name": "Salvador de Madariaga (gasolinera)",
+      "latitude": 43.349042,
+      "longitude": -8.405643,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "361",
+      "name": "Salvador de Madariaga, Rafael Alberti",
+      "latitude": 43.346312,
+      "longitude": -8.406455,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "362",
+      "name": "Camilo José Cela, San Cristobal",
+      "latitude": 43.343173,
+      "longitude": -8.405593,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "363",
+      "name": "Av. de Monelos frente al 211, Cantera de Eirís (Farmacia)",
+      "latitude": 43.34317,
+      "longitude": -8.397688,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "364",
+      "name": "Carretera de Eirís, 40",
+      "latitude": 43.340508,
+      "longitude": -8.39538,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "365",
+      "name": "Av. de Monelos, geriátrico",
+      "latitude": 43.338132,
+      "longitude": -8.392537,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "366",
+      "name": "Av. de Monserrat (Urb. Arces)",
+      "latitude": 43.3366,
+      "longitude": -8.391295,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "367",
+      "name": "Av. de Monserrat 40",
+      "latitude": 43.334685,
+      "longitude": -8.391422,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "368",
+      "name": "Av. de Pedralonga (Fábrica de Armas)",
+      "latitude": 43.331948,
+      "longitude": -8.391128,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "369",
+      "name": "C.C. Alcampo",
+      "latitude": 43.328918,
+      "longitude": -8.390048,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "370",
+      "name": "Santa Gema",
+      "latitude": 43.329033,
+      "longitude": -8.388843,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "371",
+      "name": "Pasaje, Santa Gema",
+      "latitude": 43.33112,
+      "longitude": -8.385807,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "372",
+      "name": "Pasaje, Eirís",
+      "latitude": 43.331208,
+      "longitude": -8.386875,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "373",
+      "name": "Av. de Pedralonga 57",
+      "latitude": 43.332093,
+      "longitude": -8.39117,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "374",
+      "name": "Av. de Pedralonga 13, fronte ó núm. 4",
+      "latitude": 43.334465,
+      "longitude": -8.391412,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "375",
+      "name": "Av. de Monserrat (Oncológico)",
+      "latitude": 43.336668,
+      "longitude": -8.39126,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "376",
+      "name": "Estrada de Eirís, frente al núm. 46",
+      "latitude": 43.339653,
+      "longitude": -8.394115,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "377",
+      "name": "Av. de Monelos 243",
+      "latitude": 43.341263,
+      "longitude": -8.395997,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "378",
+      "name": "Av. de Monelos 211 (Farmacia)",
+      "latitude": 43.343267,
+      "longitude": -8.397685,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "379",
+      "name": "Matogrande",
+      "latitude": 43.340717,
+      "longitude": -8.404133,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "380",
+      "name": "Camilo José Cela bloque 40, glorieta",
+      "latitude": 43.343122,
+      "longitude": -8.4053,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "381",
+      "name": "Salvador Madariaga, Pablo Neruda",
+      "latitude": 43.346172,
+      "longitude": -8.406413,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "382",
+      "name": "Salvador Madariaga, Mercado",
+      "latitude": 43.348525,
+      "longitude": -8.405755,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "383",
+      "name": "Salvador Madariaga, Monelos",
+      "latitude": 43.349807,
+      "longitude": -8.40467,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "384",
+      "name": "Av. de la Habana, Pérez Lugin",
+      "latitude": 43.368057,
+      "longitude": -8.41626,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "385",
+      "name": "Av. de Buenos Aires 7",
+      "latitude": 43.367943,
+      "longitude": -8.411777,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "386",
+      "name": "Paseo Marítimo (Hotel María Pita)",
+      "latitude": 43.375655,
+      "longitude": -8.403165,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "387",
+      "name": "Paseo Marítimo, Santa Teresa",
+      "latitude": 43.376633,
+      "longitude": -8.406103,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "388",
+      "name": "Rda. de Monte Alto 117 (Domus)",
+      "latitude": 43.378623,
+      "longitude": -8.407403,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "389",
+      "name": "Paseo Marítimo 9, Pz. As Lagoas",
+      "latitude": 43.380288,
+      "longitude": -8.408867,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "390",
+      "name": "Paseo Marítimo (FP Ánxel Casal)",
+      "latitude": 43.382983,
+      "longitude": -8.409318,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "391",
+      "name": "Glorieta de la Torre",
+      "latitude": 43.382888,
+      "longitude": -8.402255,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "394",
+      "name": "Lamelas, Campus de Elviña",
+      "latitude": 43.335232,
+      "longitude": -8.405798,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "395",
+      "name": "Av. Finisterre, glorieta Rda. de Outeiro",
+      "latitude": 43.359028,
+      "longitude": -8.419588,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "396",
+      "name": "Ramón y Cajal 30, Alcalde Marchesi",
+      "latitude": 43.355692,
+      "longitude": -8.402655,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "397",
+      "name": "Salgado Torres, túnel",
+      "latitude": 43.350703,
+      "longitude": -8.409425,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "398",
+      "name": "Pza. de Pontevedra 18 (Oficinas Deportivo)",
+      "latitude": 43.367448,
+      "longitude": -8.408673,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "399",
+      "name": "Av. de Alfonso Molina, Estación Autobuses",
+      "latitude": 43.353217,
+      "longitude": -8.406592,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "400",
+      "name": "Av. de Alfonso Molina, Fernández Latorre",
+      "latitude": 43.35967,
+      "longitude": -8.405027,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "403",
+      "name": "Av. Butano (ida)",
+      "latitude": 43.349122,
+      "longitude": -8.45092,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "404",
+      "name": "Nostián",
+      "latitude": 43.349718,
+      "longitude": -8.456815,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "405",
+      "name": "Av. Butano (vuelta)",
+      "latitude": 43.349083,
+      "longitude": -8.45093,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "408",
+      "name": "Carretera de Bens, Penamoa",
+      "latitude": 43.353143,
+      "longitude": -8.436542,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "409",
+      "name": "Chaléts Refinería (en frente)",
+      "latitude": 43.35348,
+      "longitude": -8.439885,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "410",
+      "name": "Mazaído (ida)",
+      "latitude": 43.357793,
+      "longitude": -8.444078,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "411",
+      "name": "Comeanda (ida)",
+      "latitude": 43.355003,
+      "longitude": -8.441922,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "412",
+      "name": "Bens",
+      "latitude": 43.359465,
+      "longitude": -8.447868,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "413",
+      "name": "Comeanda (vuelta)",
+      "latitude": 43.35484,
+      "longitude": -8.441898,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "414",
+      "name": "Mazaído (vuelta)",
+      "latitude": 43.357123,
+      "longitude": -8.44351,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "415",
+      "name": "Chaléts Refinería",
+      "latitude": 43.353418,
+      "longitude": -8.439777,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "416",
+      "name": "Av. del Ejército 44 (Radio Voz)",
+      "latitude": 43.354605,
+      "longitude": -8.3951,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "417",
+      "name": "Birloque, Bloque 6-8",
+      "latitude": 43.342152,
+      "longitude": -8.414473,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "424",
+      "name": "Cocheras",
+      "latitude": 43.373045,
+      "longitude": -8.427528,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "425",
+      "name": "Paseo Marítimo, Modesta Goicouría",
+      "latitude": 43.368627,
+      "longitude": -8.408362,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "426",
+      "name": "Paseo Marítimo (Ambulatorio San José)",
+      "latitude": 43.369858,
+      "longitude": -8.405547,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "428",
+      "name": "Av. Nueva York (Fac. de Filología)",
+      "latitude": 43.32496,
+      "longitude": -8.406195,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "429",
+      "name": "Av. Nueva York (Urb. Aguas Mansas)",
+      "latitude": 43.323643,
+      "longitude": -8.407942,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "430",
+      "name": "Av. Nueva York (Urb. Valaire)",
+      "latitude": 43.314475,
+      "longitude": -8.421135,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "431",
+      "name": "Av. Nueva York (S.C. Casino)",
+      "latitude": 43.315553,
+      "longitude": -8.416738,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "432",
+      "name": "Av. Nueva York (Res. Est. Rialta)",
+      "latitude": 43.32357,
+      "longitude": -8.407955,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "433",
+      "name": "Av. Nueva York, cruce Fac. de Filología",
+      "latitude": 43.325105,
+      "longitude": -8.405878,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "434",
+      "name": "Cocheras",
+      "latitude": 43.373045,
+      "longitude": -8.427528,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "435",
+      "name": "Av. Nueva York, Amberes",
+      "latitude": 43.326263,
+      "longitude": -8.403232,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "437",
+      "name": "Obelisco",
+      "latitude": 43.368808,
+      "longitude": -8.402053,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "443",
+      "name": "Av. Nueva York (frente S.C. Casino)",
+      "latitude": 43.315662,
+      "longitude": -8.416572,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "445",
+      "name": "Av. de Monelos, Bloque 6",
+      "latitude": 43.346245,
+      "longitude": -8.400673,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "447",
+      "name": "Antonio Noche 10",
+      "latitude": 43.3479,
+      "longitude": -8.39976,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "452",
+      "name": "Calle Lisboa",
+      "latitude": 43.329822,
+      "longitude": -8.405867,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "453",
+      "name": "Av. Nueva York, Belgrado (Policlínico)",
+      "latitude": 43.327858,
+      "longitude": -8.403557,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "456",
+      "name": "ETS de Arquitectura (bajada a Campus Elviña)",
+      "latitude": 43.326915,
+      "longitude": -8.41008,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "457",
+      "name": "Castro de Elviña (bajada)",
+      "latitude": 43.327983,
+      "longitude": -8.413108,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "458",
+      "name": "Castro de Elviña (subida)",
+      "latitude": 43.327822,
+      "longitude": -8.413187,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "459",
+      "name": "Facultad de Economía y Empresa",
+      "latitude": 43.331075,
+      "longitude": -8.412742,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "460",
+      "name": "Campus Elviña, glorieta",
+      "latitude": 43.332603,
+      "longitude": -8.41217,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "461",
+      "name": "Campus Elviña (Xoana Capdevielle)",
+      "latitude": 43.334795,
+      "longitude": -8.406307,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "462",
+      "name": "E.U. de Aparejadores",
+      "latitude": 43.32721,
+      "longitude": -8.408427,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "463",
+      "name": "Urb. Valaire 107-109",
+      "latitude": 43.314702,
+      "longitude": -8.42021,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "464",
+      "name": "Urb. O Carón",
+      "latitude": 43.308458,
+      "longitude": -8.424173,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "466",
+      "name": "Av. de Arteixo 106, Fraternidade (Residencial Vioño)",
+      "latitude": 43.355212,
+      "longitude": -8.414112,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "467",
+      "name": "Av. de Arteixo (Centro Salud Os Mallos)",
+      "latitude": 43.35256,
+      "longitude": -8.415717,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "468",
+      "name": "Maria J. Wonenburger",
+      "latitude": 43.351702,
+      "longitude": -8.416998,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "469",
+      "name": "Newton (entrada lateral C.C. Dolce Vita)",
+      "latitude": 43.35014,
+      "longitude": -8.430185,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "470",
+      "name": "Severo Ochoa, Newton",
+      "latitude": 43.352087,
+      "longitude": -8.430857,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "471",
+      "name": "Severo Ochoa, Galileo Galilei",
+      "latitude": 43.350883,
+      "longitude": -8.424373,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "472",
+      "name": "Av. Sardiñeira (museo Fenosa)",
+      "latitude": 43.349853,
+      "longitude": -8.417943,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "473",
+      "name": "Av. da Sardiñeira (Instituto)",
+      "latitude": 43.349322,
+      "longitude": -8.416358,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "480",
+      "name": "Av. Nueva York (Los Abetos)",
+      "latitude": 43.325722,
+      "longitude": -8.404028,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "481",
+      "name": "Newton, Galileo Galilei",
+      "latitude": 43.347933,
+      "longitude": -8.428162,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "482",
+      "name": "A Maestranza, Av. Metrosidero",
+      "latitude": 43.371232,
+      "longitude": -8.390888,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "483",
+      "name": "Urb. Valaire, O Carón",
+      "latitude": 43.31111,
+      "longitude": -8.421888,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "486",
+      "name": "Illas Sisargas (EROSKI)",
+      "latitude": 43.326313,
+      "longitude": -8.4299,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "487",
+      "name": "Av. Novo Mesoiro 10",
+      "latitude": 43.325828,
+      "longitude": -8.433035,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "488",
+      "name": "Av. Novo Mesoiro 30 (lib. Lambón)",
+      "latitude": 43.325113,
+      "longitude": -8.435775,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "489",
+      "name": "Ribeira Sacra 3 (frente al nº 1)",
+      "latitude": 43.325118,
+      "longitude": -8.44012,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "490",
+      "name": "Ribeira Sacra 12",
+      "latitude": 43.324305,
+      "longitude": -8.444162,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "491",
+      "name": "Fragas do Eume 20",
+      "latitude": 43.323802,
+      "longitude": -8.442022,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "492",
+      "name": "Av. Novo Mesoiro frente núm. 38",
+      "latitude": 43.324768,
+      "longitude": -8.438408,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "493",
+      "name": "Av. Novo Mesoiro 25 (Frutas Laura)",
+      "latitude": 43.325063,
+      "longitude": -8.435442,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "494",
+      "name": "Av. Novo Mesoiro 5",
+      "latitude": 43.325865,
+      "longitude": -8.432647,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "495",
+      "name": "Illas Sisargas (frente a EROSKI)",
+      "latitude": 43.326537,
+      "longitude": -8.429187,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "496",
+      "name": "Glorieta cruce Eirís, viaducto",
+      "latitude": 43.343862,
+      "longitude": -8.398672,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "497",
+      "name": "Campus de Elviña, Edif. Sindicatos",
+      "latitude": 43.337142,
+      "longitude": -8.407318,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "498",
+      "name": "Av. Nueva York, Londres",
+      "latitude": 43.328262,
+      "longitude": -8.403202,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "499",
+      "name": "Ctra. Bens, Av. Finisterre",
+      "latitude": 43.353095,
+      "longitude": -8.436663,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "500",
+      "name": "Av. del Pasaje, cruce Jubias",
+      "latitude": 43.342142,
+      "longitude": -8.387785,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "501",
+      "name": "Lugar de Peñarredonda",
+      "latitude": 43.329908,
+      "longitude": -8.39832,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "503",
+      "name": "Edificio Proa, Matogrande",
+      "latitude": 43.339212,
+      "longitude": -8.404848,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "504",
+      "name": "Severo Ochoa (frente a C.C. Dolce Vita)",
+      "latitude": 43.351555,
+      "longitude": -8.427928,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "505",
+      "name": "Pérez Ardá, Calle Brasil",
+      "latitude": 43.351207,
+      "longitude": -8.403953,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "506",
+      "name": "Vicente Aleixandre 55",
+      "latitude": 43.346192,
+      "longitude": -8.40013,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "507",
+      "name": "Vicente Aleixandre 1",
+      "latitude": 43.348047,
+      "longitude": -8.400835,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "508",
+      "name": "Calle Curtis, frente núm. 6",
+      "latitude": 43.349275,
+      "longitude": -8.39584,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "509",
+      "name": "José María Hernansáez 31",
+      "latitude": 43.350552,
+      "longitude": -8.39489,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "522",
+      "name": "Iglesia de Bens (en frente)",
+      "latitude": 43.359168,
+      "longitude": -8.445162,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "523",
+      "name": "Hospital Abente y Lago",
+      "latitude": 43.367915,
+      "longitude": -8.390042,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "524",
+      "name": "Av. del Ejército 68",
+      "latitude": 43.35396,
+      "longitude": -8.393145,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "525",
+      "name": "Os Castros, Av. de la Concordia",
+      "latitude": 43.352245,
+      "longitude": -8.390665,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "526",
+      "name": "Juana de Vega 25, Pz. de Pontevedra (ABANCA)",
+      "latitude": 43.367657,
+      "longitude": -8.406388,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "540",
+      "name": "C.C. Espacio Coruña",
+      "latitude": 43.3386,
+      "longitude": -8.4114,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "541",
+      "name": "Iglesia de Bens",
+      "latitude": 43.359408,
+      "longitude": -8.445762,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "542",
+      "name": "Luis Iglesias 4",
+      "latitude": 43.311258,
+      "longitude": -8.441898,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "543",
+      "name": "Luis Iglesias 4 (en frente)",
+      "latitude": 43.311218,
+      "longitude": -8.441912,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "544",
+      "name": "Francisco Sánchez, Luis Iglesias",
+      "latitude": 43.309865,
+      "longitude": -8.443775,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "546",
+      "name": "Cruce de Luis Freire",
+      "latitude": 43.312,
+      "longitude": -8.44275,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "547",
+      "name": "Cruce de Luis Freire (vuelta)",
+      "latitude": 43.31205,
+      "longitude": -8.44273,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "548",
+      "name": "Urbanización Breogán (vuelta)",
+      "latitude": 43.3135,
+      "longitude": -8.443833,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "549",
+      "name": "As Lagoas, Ctra. circunv. 22",
+      "latitude": 43.381352,
+      "longitude": -8.40922,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "550",
+      "name": "Área Comercial Marineda City",
+      "latitude": 43.345977,
+      "longitude": -8.428935,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "551",
+      "name": "Puerto de Oza",
+      "latitude": 43.352535,
+      "longitude": -8.386815,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "552",
+      "name": "Campus de Oza",
+      "latitude": 43.34708,
+      "longitude": -8.386878,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "553",
+      "name": "Emilio González López 44",
+      "latitude": 43.374295,
+      "longitude": -8.436638,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "555",
+      "name": "Calle Hospital, Zalaeta",
+      "latitude": 43.373092,
+      "longitude": -8.400775,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "557",
+      "name": "Matogrande, rotonda Juan Díaz Porlier (Ida)",
+      "latitude": 43.340717,
+      "longitude": -8.404133,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "558",
+      "name": "Fac. de Arquitectura",
+      "latitude": 43.326608,
+      "longitude": -8.410492,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "559",
+      "name": "Rda. Outeiro, IES Rafael Dieste",
+      "latitude": 43.369017,
+      "longitude": -8.424437,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "560",
+      "name": "Calle Educación, Conservatorio",
+      "latitude": 43.371128,
+      "longitude": -8.422252,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "561",
+      "name": "José María Rivera, Estrella Galicia",
+      "latitude": 43.35223,
+      "longitude": -8.421165,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "562",
+      "name": "Av. Ferrocarril 14",
+      "latitude": 43.349758,
+      "longitude": -8.411977,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "563",
+      "name": "Av. Ferrocarril 54",
+      "latitude": 43.346863,
+      "longitude": -8.415732,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "564",
+      "name": "San Cristóbal, cruce Av. Ferrocarril",
+      "latitude": 43.348185,
+      "longitude": -8.419685,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "565",
+      "name": "Av. Ferrocarril 81",
+      "latitude": 43.346543,
+      "longitude": -8.416433,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "566",
+      "name": "Av. Ferrocarril, Pza. Ozores Arraiz",
+      "latitude": 43.347867,
+      "longitude": -8.414202,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "567",
+      "name": "Av. Ferrocarril 33",
+      "latitude": 43.35007,
+      "longitude": -8.411495,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "568",
+      "name": "Av. de Navarra, Rda. de Monte Alto",
+      "latitude": 43.381617,
+      "longitude": -8.400157,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "569",
+      "name": "Rda. de Monte Alto 32",
+      "latitude": 43.381202,
+      "longitude": -8.403565,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "570",
+      "name": "Rda. de Monte Alto 52",
+      "latitude": 43.381115,
+      "longitude": -8.405927,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "571",
+      "name": "Av. Nueva York, Zapateira",
+      "latitude": 43.322327,
+      "longitude": -8.410972,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "572",
+      "name": "Av. Nueva York, glorieta",
+      "latitude": 43.322508,
+      "longitude": -8.409985,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "573",
+      "name": "Travesía de Meicende 159",
+      "latitude": 43.34607,
+      "longitude": -8.447587,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "574",
+      "name": "Meicende, Av. Butano",
+      "latitude": 43.344278,
+      "longitude": -8.450893,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "575",
+      "name": "Travesía de Meicende 166",
+      "latitude": 43.346405,
+      "longitude": -8.446917,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "576",
+      "name": "Travesía de Meicende 214",
+      "latitude": 43.348005,
+      "longitude": -8.443907,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "577",
+      "name": "Av. Butano, Cee",
+      "latitude": 43.34431,
+      "longitude": -8.450778,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "578",
+      "name": "Av. Nueva York, lugar de Monte do Espiño",
+      "latitude": 43.321822,
+      "longitude": -8.41284,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "579",
+      "name": "Plaza Casares Quiroga",
+      "latitude": 43.34882,
+      "longitude": -8.409648,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "580",
+      "name": "Av. Ferrocarril, frente Pz. Ozores Arraiz",
+      "latitude": 43.347958,
+      "longitude": -8.414245,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "581",
+      "name": "Av. Ferrocarril, Edificio Trébole",
+      "latitude": 43.347307,
+      "longitude": -8.418097,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "582",
+      "name": "Aparcamiento Lonzas",
+      "latitude": 43.344023,
+      "longitude": -8.415795,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "583",
+      "name": "Aparcamiento Lonzas (en frente)",
+      "latitude": 43.344068,
+      "longitude": -8.415668,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "584",
+      "name": "Santa Cristina",
+      "latitude": 43.333485,
+      "longitude": -8.378762,
+      "smart": false,
+      "state": "INACTIVE"
+    },
+    {
+      "code": "585",
+      "name": "Urb. Os Olivos",
+      "latitude": 43.29585,
+      "longitude": -8.429608,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "586",
+      "name": "Urb. Valle Sur",
+      "latitude": 43.295133,
+      "longitude": -8.431143,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "587",
+      "name": "Urb. Monte Golf",
+      "latitude": 43.301898,
+      "longitude": -8.427625,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "588",
+      "name": "Urb. O Carón",
+      "latitude": 43.308408,
+      "longitude": -8.424227,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "589",
+      "name": "José Miñones (Provisional)",
+      "latitude": 43.348172,
+      "longitude": -8.40918,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "590",
+      "name": "Hospital de Oza",
+      "latitude": 43.346165,
+      "longitude": -8.385033,
+      "smart": false,
+      "state": "ACTIVE"
+    },
+    {
+      "code": "591",
+      "name": "As Xubias",
+      "latitude": 43.344475,
+      "longitude": -8.385612,
+      "smart": false,
+      "state": "ACTIVE"
+    }
+  ]
+}
