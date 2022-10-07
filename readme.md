@@ -8,17 +8,15 @@ Run `npm install` in the `backend` folder to install the server dependencies.
 Run `npm start` in the `backend` folder to start the server.
 You should see something like: `Listening on Port: 5001`
 Now you can start building your application in the `FE` folder.
-API Routes:
 
 ## Frontend Setup 🛠
 
 It is just a CRA project.
 
-```bash
-npx create-react-app free-now-test-frontend --template typescript
-cd free-now-test-frontend
-npm start
-```
+Run `npm install` in the `frontend` folder to install the frontend dependencies.
+Run `npm start` in the `frontend` folder to start the project.
+
+## API Routes:
 
 #### Get a list of all CITY bus stops:
 
