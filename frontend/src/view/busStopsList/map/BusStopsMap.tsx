@@ -10,9 +10,9 @@ import {
   setSelectedBusStop,
 } from "../../../modules/busStops/busStopsSlice";
 
-import { Map, Point } from "pigeon-maps";
+import { Map, Marker, Point } from "pigeon-maps";
 import { Theme, useMediaQuery } from "@mui/material";
-import BusStopMarker from "./BusStopMarker";
+import sameBusStops from "../../../utils/sameBusStops";
 
 const defaultCenter: Point = [43.362055, -8.41233];
 
@@ -46,14 +46,21 @@ const BusStopsMap = () => {
       center={center}
       metaWheelZoom
     >
-      {busStops.map((busStop, index) => (
-        <BusStopMarker
-          key={`map-markers-${index}`}
-          busStop={busStop}
-          selectedBusStop={selectedBusStop}
-          onClick={() => onSeletedBusStop(busStop)}
-        />
-      ))}
+      {busStops.map((busStop, index) => {
+        const isSameBusStop = sameBusStops(busStop, selectedBusStop);
+        return (
+          <Marker
+            key={`map-markers-${index}`}
+            color={`hsl(${isSameBusStop ? 10 : 180}deg 39% 70%)`}
+            width={isSameBusStop ? 70 : 50}
+            anchor={[
+              busStop.coordinates.latitude,
+              busStop.coordinates.longitude,
+            ]}
+            onClick={() => onSeletedBusStop(busStop)}
+          />
+        );
+      })}
     </Map>
   );
 };

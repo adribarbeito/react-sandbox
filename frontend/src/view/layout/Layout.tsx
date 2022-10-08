@@ -1,9 +1,5 @@
-import { Box, styled } from "@mui/material";
+import { Box } from "@mui/material";
 import Header from "./Header";
-
-const MainStyle = styled("main")(({ theme }) => ({
-  paddingTop: theme.mixins.toolbar.minHeight,
-}));
 
 type Props = {
   children?: React.ReactNode;

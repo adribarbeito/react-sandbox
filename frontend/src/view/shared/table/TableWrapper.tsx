@@ -1,6 +1,5 @@
 import React from "react";
-import { Card, TableCell, TableCellProps, TableSortLabel } from "@mui/material";
-import { SorterType } from "../../../@types/sorter.type";
+import { Card, TableCellProps } from "@mui/material";
 
 interface Props extends TableCellProps {
   children: React.ReactNode;
